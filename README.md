@@ -1,8 +1,8 @@
 # Launch-Odds Radar v17-mellow
 
-[![make.fun](https://img.shields.io/badge/make.fun-token--radar--01-0e7a6d)](https://make.fun/bounty/token-radar-01)
-[![model](https://img.shields.io/badge/model-v17--mellow-2563a8)](https://make.fun/bounty/token-radar-01)
-[![snapshot](https://img.shields.io/badge/snapshot-2026--11--14-c98a1b)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/agungvg/launch-odds-radar-v17-mellow/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/agungvg/launch-odds-radar-v17-mellow/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Pre-token protocols, valued from their own record. Implied value = TVL × fitted
 multiple (the value if a token launches) × token odds (from how long peers ran
